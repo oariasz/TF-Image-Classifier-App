@@ -6,7 +6,8 @@
 
 
 from taipy.gui import Gui
-from tensorflow.keras import models
+import tensorflow as tf
+from keras import models
 from PIL import Image
 import numpy as np
 
